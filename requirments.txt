@@ -1,0 +1,4 @@
+networkscan
+python-netbox
+ipcalc
+six
